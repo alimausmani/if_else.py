@@ -1,0 +1,1 @@
+# 10. Write a python program to check whether a character is uppercase or lowercase alphabet.
